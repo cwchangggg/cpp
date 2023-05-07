@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652315861 source:c:\users\user\desktop\#1aaron\###nthu_course\11020\電機程設\c++_programfiles\hw6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
