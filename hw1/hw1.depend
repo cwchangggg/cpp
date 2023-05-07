@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1645664860 source:c:\users\user\desktop\#1aaron\###nthu_course\11020\電機程設\c++_programfiles\lab1\lab1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1646141352 source:c:\users\user\desktop\#1aaron\###nthu_course\11020\電機程設\c++_programfiles\hw\hw1\hw1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
